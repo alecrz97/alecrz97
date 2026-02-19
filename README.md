@@ -1,6 +1,7 @@
-# Hi, I'm Alexis Cruz 👋
+# Hi, I'm Alexis Cruz
 
-🚀 Android Developer focused on building modern, scalable, and maintainable mobile applications.
+🚀 Android Developer focused on building modern, scalable, and maintainable android applications.
+📍 Based in Morelos, Mexico | Open to Remote International Opportunities.
 
 I specialize in Kotlin and Jetpack Compose, following Clean Architecture and MVVM principles to create robust and testable applications.
 
@@ -18,9 +19,7 @@ I specialize in Kotlin and Jetpack Compose, following Clean Architecture and MVV
 - **Tools:** Git, GitHub
 
 ---
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecrz97&layout=compact)
 ## 📱 Featured Project
 
 ### 🎬 KMS Movies Official
